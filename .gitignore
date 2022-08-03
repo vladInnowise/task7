@@ -1,6 +1,11 @@
-
+/__pycache__
 /.git
 /.idea.ipynb_checkpoints
 /results_of_parsing
 /files_added
 /files
+.DS_Store
+.env
+.idea/
+.ipynb_*
+/env
